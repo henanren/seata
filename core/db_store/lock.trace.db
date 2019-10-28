@@ -1,0 +1,3 @@
+10-28 16:26:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "LOCK_TABLE" not found; SQL statement:
+drop table lock_table [42102-181]
